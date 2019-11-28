@@ -39,5 +39,7 @@ public class Smallnum
 		
 		checknumber();
 		checknumber(9.5F,5.0F); 
+		System.out.println("git demo");
+
     }
 }
